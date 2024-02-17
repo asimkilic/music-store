@@ -1,0 +1,8 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(ºê¶‚şÿÿÿÿ8µ¿’Ù1
+G	java:S106 "+Replace this use of System.out by a logger.(“€í³8¶¿’Ù1
+n
+java:S3457""Q%n should be used in place of \n to produce the platform-specific line separator.(•¯Èö8·¿’Ù1
+G	java:S106""+Replace this use of System.out by a logger.(•¯Èö8·¿’Ù1
+]	java:S1253"<This block of commented-out lines of code should be removed.(‚÷†üÿÿÿÿ8·¿’Ù1
+]	java:S1255"<This block of commented-out lines of code should be removed.(Ú³è‰şÿÿÿÿ8¸¿’Ù1
