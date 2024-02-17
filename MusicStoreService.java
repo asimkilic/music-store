@@ -5,6 +5,7 @@ public class MusicStoreService {
 
     private Product[] allProducts;
 
+
     private User[] users = new User[]{
             new User(1L, "Ahmet Gültekin"),
             new User(2L, "Asım Kılıç")
